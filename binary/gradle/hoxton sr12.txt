@@ -1,0 +1,11 @@
+
+HOXTON SR12
+
+// https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-dependencies
+runtimeOnly group: 'org.springframework.cloud', name: 'spring-cloud-dependencies', version: 'Hoxton.SR12', ext: 'pom'
+
+
+SORT
+// https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-dependencies
+runtimeOnly 'org.springframework.cloud:spring-cloud-dependencies:Hoxton.SR12'
+
